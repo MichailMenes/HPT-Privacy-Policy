@@ -1,4 +1,4 @@
-#Privacy Policy. | Политика конфиденциальности.
+Privacy Policy. | Политика конфиденциальности.
 
 Privacy policy (Policy) of personal information applies to all information which Menes Indi (Developer) can get from user during a application use Home Poker Timer (Application). 
 
@@ -30,7 +30,7 @@ Privacy policy (Policy) of personal information applies to all information which
 
 In case of any questions you can contact us: menesindidev@gmail.com
 
-#Политика конфиденциальности
+Политика конфиденциальности
 
 Политика конфиденциальности персональной информации (далее «Политика») действует в отношении всей информации, которую Menes Indi (далее Разработчик), может получить о пользователе во время использования мобильного приложения Home Poker Timer (далее Приложения).
 
